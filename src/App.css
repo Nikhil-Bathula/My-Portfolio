@@ -13,7 +13,7 @@
 }
 
 /* Laptop/Desktop Screens */
-@media only screen and (min-width: 769px) and (max-width: 1920px) {
+@media only screen and (max-width: 1920px) {
   #root {
     max-width: 1920px;
     background-color: #0f172a !important;
