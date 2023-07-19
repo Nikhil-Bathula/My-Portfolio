@@ -15,16 +15,16 @@
 /* Laptop/Desktop Screens */
 @media only screen and (max-width: 1920px) {
   #root {
-    max-width: 1920px;
+    max-width: 100%;
     background-color: #0f172a !important;
-    height: 700vh;
+    height: 100%;
   }
   .App {
     display: flex;
-    padding: 15rem;
-    margin-left: auto;
+    padding: 10%;
+    /* margin-left: auto;
     margin-right: auto;
-    padding-top: 10rem;
+    padding-top: 10rem; */
   }
   .mainContent {
     width: 50%;
