@@ -1,4 +1,3 @@
-import NavBar from './Components/NavBar';
 import PersonalInfo from './Components/PersonalInfo';
 import AboutMe from './Components/AboutMe';
 import WorkExperience from './Components/WorkExperience';
