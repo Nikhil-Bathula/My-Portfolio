@@ -1,7 +1,5 @@
 import React from "react";
 import '../CSS/Projects.css';
-import Capgemini from '../Images/Capgemini-Logo.png';
-import ICS from '../Images/ICS-Logo.png';
 
 const Projects = () => {
   return (
