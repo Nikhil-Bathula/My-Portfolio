@@ -5,8 +5,8 @@ const PersonalInfo = () => {
   return (
     <header>
       <div className="CandidateName">Nikhil Bathula</div>
-      <h5 className="Occupation">Web Development Student at Conestoga College
-        with 5 Years of Industry Experience </h5>
+      <h5 className="Occupation">Web Development Graduate from Conestoga College
+      with 5 Years of Industry Experience </h5>
       <span className="FuturePlans">Eager to Learn and Create Innovative Solutions</span>
       <nav className="navbar">
         <ul>
