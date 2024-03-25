@@ -2,6 +2,17 @@ import React from "react";
 import '../CSS/PersonalInfo.css'
 
 const PersonalInfo = () => {
+  async function syncFunc() {
+    console.log('async function');
+ }
+ 
+ async function someAsyncFunction() {
+    console.log('1');
+    await console.log(syncFunc());
+    console.log('2');
+ }
+ 
+ someAsyncFunction();
   return (
     <header>
       <div className="CandidateName">Nikhil Bathula</div>

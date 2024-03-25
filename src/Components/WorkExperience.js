@@ -13,15 +13,16 @@ const WorkExperience = () => {
             <b className='companyName'>Consultant - Capgemini</b>
             <ul>
               <li>
-                Analyzing new business requirements and transforming all requirements into
-                functional design specifications.
+                Led front-end best practices as a technical authority, ensuring optimal performance and adherence to industry standards.
               </li>
               <li>
-                Took leadership in coordinating with Off-shore Team regarding requirement
-                clarifications, implementations, and activities of the Project.
+                Spearheaded the design, development, and maintenance of cutting-edge web applications utilizing React, React Hooks, and Redux.
               </li>
               <li>
-                Implemented JSON web token for login authentication.
+                Provide mentorship to junior developers, conduct code reviews, and offer technical guidance to uphold code quality and best practices.
+              </li>
+              <li>
+                Spearheaded the design, implementation, and provision of architectural guidance for a fully-interactive, single-page style web application, leading to a 20% increase in development efficiency.
               </li>
             </ul>
             <div>
@@ -29,6 +30,7 @@ const WorkExperience = () => {
                 <li className='skills'>ReactJS</li>
                 <li className='skills'>NodeJS</li>
                 <li className='skills'>MySQL</li>
+                <li className='skills'>TypeScript</li>
               </ul>
             </div>
           </div>
@@ -45,14 +47,16 @@ const WorkExperience = () => {
             <b className='companyName'>Software Engineer - Infinite Computer Solutions</b>
             <ul>
               <li>
-                Analyzing new business requirements and transforming all requirements into
-                functional design specifications.
+                Engaged in knowledge-sharing activities with colleagues and provided mentorship, contributing to team skill enhancement and cohesion, leading to a 10% improvement in team performance.
               </li>
               <li>
-                Implement a graphical representation using D3JS for easy access to ticket activities, including ticket state, status, and comments.
+                Collaborated seamlessly with cross-functional teams including engineers, UX designers, and product managers to ensure alignment and delivery of high-impact solutions.
               </li>
               <li>
-                Sticking to given deadlines and delivering code with good quality.
+                Maintained code quality standards by consistently writing clean, efficient code, contributing to the overall reliability and maintainability of the application.
+              </li>
+              <li>
+                Create and manage comprehensive technical documentation to facilitate smooth knowledge transfer and project continuity.
               </li>
             </ul>
             <div>
@@ -75,11 +79,16 @@ const WorkExperience = () => {
             <b className='companyName'>Specialist - PwC India</b>
             <ul>
               <li>
-                Coordinated with On-site Team regarding requirement clarifications and was the
-                Point of Contact for the Off-shore Team for Task detailing.
+                Actively participate in Agile ceremonies including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
               </li>
               <li>
-                Integrated External tool API’s into the services in an efficient way.
+                Conduct thorough code reviews and establish best practices for frontend development, leading to a 15% improvement in code quality.
+              </li>
+              <li>
+                Collaborate with the UX team to implement front-end designs while adhering to AODA standards for accessibility.
+              </li>
+              <li>
+                Implemented version control using Git, adhering to company standards, facilitating seamless collaboration and code management within team.
               </li>
             </ul>
             <div>
@@ -104,16 +113,16 @@ const WorkExperience = () => {
             <b className='companyName'>Software Engineer - McBitss Technologies</b>
             <ul>
               <li>
-                Designed and developed UI portals using ReactJS consuming REST API’s of the
-                System.
+                Stayed abreast of emerging technologies and technical methodologies, integrating cutting-edge practices into our workflow and driving innovation within the product.
               </li>
               <li>
-                Worked as a Member in Cross-Functional Team which takes care of Smooth
-                Releases/Deployments and Fixing the Issues within short time.
+                Research, evaluate, and integrate cutting-edge technologies into workflows and libraries to optimize efficiency and effectiveness.
               </li>
               <li>
-                Part of Development Support Team whose responsibility is to fix the issues/bugs
-                raised by clients within a short time period.
+                Developed comprehensive unit and integration tests for code, resulting in a 10% decrease in bugs identified during development.
+              </li>
+              <li>
+                Implement Redux for state management, ensuring efficient data flow and enhancing application stability.
               </li>
             </ul>
             <div>
@@ -121,6 +130,7 @@ const WorkExperience = () => {
                 <li className='skills'>ReactJS</li>
                 <li className='skills'>NodeJS</li>
                 <li className='skills'>MongoDB</li>
+                <li className='skills'>Jest</li>
               </ul>
             </div>
           </div>
